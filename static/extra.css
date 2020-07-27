@@ -1,0 +1,26 @@
+.bg-gradient {
+    background: #ffffff;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #ffffff, #A9D5E2) no-repeat;  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #ffffff, #A9D5E2) no-repeat; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.vh-75 {
+    height: 75vh;
+}
+
+.filter-grayscale {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+
+.text-color-secondary {
+    color: #052E3F
+}
+
+.bg-home {
+    background-color: #D6ECEF;
+}
+
+.top-100 {
+    top: 100px
+}
